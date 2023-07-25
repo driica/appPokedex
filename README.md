@@ -28,11 +28,9 @@ Libs instaladas
 - npx expo install react-native-reanimated
 - yarn add react-native-progress
 - yarn add react-native-svg
+  
+<a href="https://www.linkedin.com/in/adrianabeatriz3">
+ <sub><b>Adriana Beatriz</b></sub></a>  <a href="https://www.linkedin.com/in/adrianabeatriz3" title="LinkedIn">🚀</a>
 
-## Tech Juliana
-
-<a href="https://www.linkedin.com/in/techjuliana">
- <sub><b>Juliana Bitencourt</b></sub></a>  <a href="https://www.linkedin.com/in/techjuliana" title="LinkedIn">🚀</a>
-
-Elaborado por Juliana Bitencourt
+Elaborado por Adriana Beatriz
 <br> Entre em contato!👋🏽 </br>
